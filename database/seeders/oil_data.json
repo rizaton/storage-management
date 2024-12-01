@@ -1,0 +1,1427 @@
+[
+    {
+        "brand_name": "AGIP",
+        "brand_products": [
+            {
+                "product_name": "AGIP THERM OIL 3 XT (MINYAK TRANSFER PANAS)",
+                "product_description": "Agip Therm Oil 3 Xt (Minyak Transfer Panas)",
+                "product_stock": 1
+            }
+        ]
+    },
+    {
+        "brand_name": "BUHMWOO",
+        "brand_products": [
+            {
+                "product_name": "OLI KOMPRESOR BUHMWOO BW COMP - 4600Z",
+                "product_description": "Oli Kompresor Buhmwoo Bw Comp - 4600Z",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW CLEAN W - 515",
+                "product_description": "Buhmwoo Bw Clean W - 515",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL SYN - 370RT",
+                "product_description": "Buhmwoo Bw Cool Syn - 370Rt",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL SYN - 550 R",
+                "product_description": "Buhmwoo Bw Cool Syn - 550 R",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW CUT EP - 424Q",
+                "product_description": "Buhmwoo Bw Cut Ep - 424Q",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW WAYLUBE BSH - SERIES",
+                "product_description": "Buhmwoo Bw Waylube Bsh - Series",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL SYN - 454",
+                "product_description": "Buhmwoo Bw Cool Syn - 454",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW CUT EP - 820",
+                "product_description": "Buhmwoo Bw Cut Ep - 820",
+                "product_stock": 1
+            },
+            {
+                "product_name": "OLI HIDROLIK BUHMWOO BWG - SERIES",
+                "product_description": "Oli Hidrolik Buhmwoo Bwg - Series",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW RUSTOP P -340N",
+                "product_description": "Buhmwoo Bw Rustop P -340N",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW FINEPUNCH - 50YA",
+                "product_description": "Buhmwoo Bw Finepunch - 50Ya",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW FINEPRESS 400 N",
+                "product_description": "Buhmwoo Bw Finepress 400 N",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW RUSTOP P - 260N",
+                "product_description": "Buhmwoo Bw Rustop P - 260N",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL EX - 440",
+                "product_description": "Buhmwoo Bw Cool Ex - 440",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL EX - 9120",
+                "product_description": "Buhmwoo Bw Cool Ex - 9120",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW FINEFORM 65 A",
+                "product_description": "Buhmwoo Bw Fineform 65 A",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO HIGH SPEED QUENCH BW-120C",
+                "product_description": "Buhmwoo High Speed Quench Bw-120C",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW CUT EP - 814",
+                "product_description": "Buhmwoo Bw Cut Ep - 814",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW RUSTOP P-DBH (N)",
+                "product_description": "Buhmwoo Bw Rustop P-Dbh (N)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW CLEAN W - 710",
+                "product_description": "Buhmwoo Bw Clean W - 710",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL AF-90M",
+                "product_description": "Buhmwoo Bw Cool Af-90M",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL SYN-6510A",
+                "product_description": "Buhmwoo Bw Cool Syn-6510A",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW COOL ZOL-310J",
+                "product_description": "Buhmwoo Bw Cool Zol-310J",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW CUT EDM-100",
+                "product_description": "Buhmwoo Bw Cut Edm-100",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW FINEPUNCH 33",
+                "product_description": "Buhmwoo Bw Finepunch 33",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW FINEPUNCH 50 V",
+                "product_description": "Buhmwoo Bw Finepunch 50 V",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW FINEDRAW 1100",
+                "product_description": "Buhmwoo Bw Finedraw 1100",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW RUSTOP P - 325S",
+                "product_description": "Buhmwoo Bw Rustop P - 325S",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW VPL- SERIES",
+                "product_description": "Buhmwoo Bw Vpl- Series",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO HIGH SPEED QUENCH BW-1270C",
+                "product_description": "Buhmwoo High Speed Quench Bw-1270C",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW HYDRO BFE - SERIES",
+                "product_description": "Buhmwoo Bw Hydro Bfe - Series",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW KC-50",
+                "product_description": "Buhmwoo Bw Kc-50",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO BW RUSTOP P - 250",
+                "product_description": "Buhmwoo Bw Rustop P - 250",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO POLYQUENCH BW-510N",
+                "product_description": "Buhmwoo Polyquench Bw-510N",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO POLYQUENCH BW-550N",
+                "product_description": "Buhmwoo Polyquench Bw-550N",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO 2X WHITE-110",
+                "product_description": "Buhmwoo 2X White-110",
+                "product_stock": 1
+            },
+            {
+                "product_name": "BUHMWOO SEMI-HOT BW-2100S",
+                "product_description": "Buhmwoo Semi-Hot Bw-2100S",
+                "product_stock": 1
+            },
+            {
+                "product_name": "OLI INDUSTRI BUMWOO BH 46 (OLI HIDROLI)",
+                "product_description": "Oli Industri Bumwoo Bh 46 (Oli Hidroli)",
+                "product_stock": 1
+            }
+        ]
+    },
+    {
+        "brand_name": "CASTROL",
+        "brand_products": [
+            {
+                "product_name": "CASTOL TFC 410 / 430 / 450 / 460 (OLI TRANSMISI)",
+                "product_description": "Castol Tfc 410 / 430 / 450 / 460 (Oli Transmisi)",
+                "product_stock": 1
+            }
+        ]
+    },
+    {
+        "brand_name": "CHEMTURA",
+        "brand_products": [
+            {
+                "product_name": "OLI CHEMTURA REOLUBE TURBOFLUID 46SJ 46XC",
+                "product_description": "Oli Chemtura Reolube Turbofluid 46SJ 46XC",
+                "product_stock": 1
+            }
+        ]
+    },
+    {
+        "brand_name": "ENI",
+        "brand_products": [
+            {
+                "product_name": "ENI ALARIA 5 (Minyak Transfer Panas)",
+                "product_description": "Eni Alaria 5 (Minyak Transfer Panas)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI ALARIA 3 (Minyak Transfer Panas)",
+                "product_description": "Eni Alaria 3 (Minyak Transfer Panas)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI OSO 100 (Pelumas Hidrolik)",
+                "product_description": "Eni Oso 100 (Pelumas Hidrolik)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI ALARIA 2 (Minyak Transfer Panas)",
+                "product_description": "Eni Alaria 2 (Minyak Transfer Panas)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI ACER 10/32/68 (Oli Hidrolik)",
+                "product_description": "Eni Acer 10/32/68 (Oli Hidrolik)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI ACER 100/150 (Oli Hidrolik)",
+                "product_description": "Eni Acer 100/150 (Oli Hidrolik)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI ACER 220/320 (Oli Hidrolik)",
+                "product_description": "Eni Acer 220/320 (Oli Hidrolik)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI SIGMA UNIVERSAL 15W-40 (Oli Diesel)",
+                "product_description": "Eni Sigma Universal 15W-40 (Oli Diesel)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI RADULA 320 (Pelumas Sistem Sirkulasi)",
+                "product_description": "Eni Radula 320 (Pelumas Sistem Sirkulasi)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI i-RIDE MOTO 4T SUPER ID (Oli Mesin Sepeda Motor)",
+                "product_description": "Eni I-Ride Moto 4T Super Id (Oli Mesin Sepeda Motor)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI SUPER TURBO DIESEL 15W-40 (Oli Diesel)",
+                "product_description": "Eni Super Turbo Diesel 15W-40 (Oli Diesel)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI SIGMA TURBO PLUS 15W-40 (Oli Mesin Diesel)",
+                "product_description": "Eni Sigma Turbo Plus 15W-40 (Oli Mesin Diesel)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI BASE PROFESSIONAL 20W-50 (Pelumas Performa Tinggi)",
+                "product_description": "Eni Base Professional 20W-50 (Pelumas Performa Tinggi)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI i-SINT FORMULA 3000 SAE 10W-40 (Oli Mesin)",
+                "product_description": "Eni I-Sint Formula 3000 Sae 10W-40 (Oli Mesin)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "ENI i-Base 20W-50 (Oli Mesin)",
+                "product_description": "Eni I-Base 20W-50 (Oli Mesin)",
+                "product_stock": 1
+            }
+        ]
+    },
+    {
+        "brand_name": "EXXON MOBIL OIL",
+        "brand_products": [
+            {
+                "product_name": "Oli Gear Mobilgear 600 XP 68 / 100 / 150 / 220 / 320 / 460 / 660 / 680 (Industrial Gear Oil)",
+                "product_description": "Oli gear industri Mobilgear 600 XP untuk perlindungan optimal.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "Oli Kompresor Mobil Rarus Shc 1024 1025 1028",
+                "product_description": "Oli kompresor Mobil Rarus SHC untuk keandalan sistem.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Oli Kompresor Mobil Shc Rarus 32 46 68 (Air Compressor Oil)",
+                "product_description": "Oli kompresor udara Mobil SHC Rarus untuk performa tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Kompresor Mobil Shc Rarus 824 826 827 829",
+                "product_description": "Oli kompresor premium Mobil SHC Rarus untuk efisiensi maksimal.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Oli Kompresor Mobil Rarus Iso Vg 424 425 426 427 429",
+                "product_description": "Oli kompresor Mobil Rarus ISO VG untuk daya tahan tinggi.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobilarma 798 (Pelumas dan Pelindung Karat Tali Kawat)",
+                "product_description": "Pelumas dan pelindung karat tali kawat Mobilarma 798.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Mobil Delvac XHP ESP 10W-40 (Perlindungan Sistem Emisi Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Mobil Delvac XHP ESP dengan perlindungan emisi.",
+                "product_stock": 14
+            },
+            {
+                "product_name": "Mobil GEO 15W-40 (Oli Mesin Gas Alam Premium)",
+                "product_description": "Oli mesin gas alam premium Mobil GEO.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "UNIREX N3/N2 (Minyak Gemuk Bantalan Suhu Tinggi)",
+                "product_description": "Minyak gemuk UNIREX N untuk bantalan suhu tinggi.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "MOBILGREASE 28 (Minyak Gemuk Kinerja Tertinggi)",
+                "product_description": "Minyak gemuk kinerja tinggi MOBILGREASE 28 untuk aplikasi berat.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobil Vactra Oil No. 1 / 2 / 3 / 4 (Premium Machine Tools Slideway Lubricants)",
+                "product_description": "Pelumas slideway premium Mobil Vactra Oil untuk mesin presisi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil Nyvac FR 200D (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Mobil Nyvac FR 200D untuk keandalan tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Oli Mobil Vacuoline 525 528 533 537 546",
+                "product_description": "Oli sirkulasi Mobil Vacuoline untuk aplikasi industri.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Mobil Spartan EP 150 220 320 460 (Mineral Gear Oil)",
+                "product_description": "Oli gear mineral Mobil Spartan EP untuk perlindungan maksimum.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobil SHC 626 (Gear and Bearing Oils)",
+                "product_description": "Oli gear dan bearing Mobil SHC 626 dengan performa tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil SHC Gear 220 (Oli Gear Synthetic)",
+                "product_description": "Oli gear sintetis Mobil SHC Gear 220 untuk efisiensi optimal.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Mobil Nuto H 32 / 46 / 68 / 100 / 150 (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Mobil Nuto H untuk performa andal.",
+                "product_stock": 14
+            },
+            {
+                "product_name": "Mobil ALMO 525 / 527 / 529 / 532 (Oli Industri)",
+                "product_description": "Oli industri Mobil ALMO untuk aplikasi tugas berat.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobilith SHC 220 (Sintetik Grease)",
+                "product_description": "Gemuk sintetis Mobilith SHC 220 untuk daya tahan tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil Mobilgrease XHP 222 Special",
+                "product_description": "Gemuk lithium kompleks Mobil Mobilgrease XHP 222 Special.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Mobil SHC 630 (Gear and Bearing Oils)",
+                "product_description": "Oli gear dan bearing Mobil SHC 630 untuk efisiensi maksimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobilith SHC 460 (Sintetik Grease)",
+                "product_description": "Gemuk sintetis Mobilith SHC 460 untuk aplikasi berat.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobilux EP 0 (Grease NLGI 0)",
+                "product_description": "Grease Mobilux EP 0 untuk aplikasi spesifik NLGI 0.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil SHC 632 (Gear and Bearing Oils)",
+                "product_description": "Oli gear dan bearing Mobil SHC 632 dengan perlindungan unggul.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobilith SHC 100 (Sintetik Grease)",
+                "product_description": "Gemuk sintetis Mobilith SHC 100 untuk keandalan tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobilgard 312 / 412 / 512 (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Mobilgard untuk aplikasi industri.",
+                "product_stock": 13
+            },
+            {
+                "product_name": "Mobil SHC 824 (Oli Turbin)",
+                "product_description": "Oli turbin sintetis Mobil SHC 824 untuk efisiensi tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil SHC Pegasus 30 (Gas Engine Synthetic Oil)",
+                "product_description": "Oli mesin gas sintetis Mobil SHC Pegasus 30 untuk kinerja optimal.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Mobil Glygoyle 68 / 150 / 220 / 320 / 460 / 680 (Gear Bearing and Compressor Oils)",
+                "product_description": "Oli gear, bearing, dan kompresor Mobil Glygoyle untuk daya tahan tinggi.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Oli Mobilgear 600 XP 100",
+                "product_description": "Oli gear industri Mobilgear 600 XP 100 untuk perlindungan unggul.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobil SHC CIBUS 32 / 46 / 68 / 100 / 150 / 220 / 460 (Oli Industri)",
+                "product_description": "Oli industri food-grade Mobil SHC CIBUS untuk aplikasi bersih dan aman.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobil Vacuoline 525 / 528 / 533 / 537 / 546 / 548 (Circulating Oils)",
+                "product_description": "Oli sirkulasi Mobil Vacuoline untuk keandalan dalam aplikasi industri.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Mobilcut 100 / 140 / 230 / 250 / 320 / 350 (Oli Industri)",
+                "product_description": "Oli industri Mobilcut untuk pemotongan presisi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil DTE 732 / 746 / 768 (Oli Turbin Premium)",
+                "product_description": "Oli turbin premium Mobil DTE untuk efisiensi optimal.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil DTE Oil Heavy / Heavy Medium / Medium / Light (Oli Turbin)",
+                "product_description": "Oli turbin Mobil DTE dengan viskositas beragam untuk kebutuhan spesifik.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil Mobilgrease XHP 222 (Lithium Complex)",
+                "product_description": "Grease lithium kompleks Mobil Mobilgrease XHP 222 untuk daya tahan tinggi.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "MOBIL POLYREX EM (Grease NLGI 2)",
+                "product_description": "Grease premium MOBIL POLYREX EM untuk motor listrik.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Mobilux EP 1 2 3 (Grease NLGI 1 2 3)",
+                "product_description": "Grease Mobilux EP untuk berbagai aplikasi industri.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Mobil Pegasus 1005 / 801 / 805 / 710 / 610 (Gas Engine Oil)",
+                "product_description": "Oli mesin gas Mobil Pegasus untuk efisiensi maksimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobil DTE 10 Excel 15 / 22 / 32 / 46 / 68 / 100 / 150 (Premium Quality Hydraulic Oils)",
+                "product_description": "Oli hidrolik premium Mobil DTE 10 Excel untuk performa unggul.",
+                "product_stock": 14
+            },
+            {
+                "product_name": "Mobil DTE 21 / 22 / 24 / 25 / 26 / 27 / 28 (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Mobil DTE untuk aplikasi tekanan tinggi.",
+                "product_stock": 13
+            },
+            {
+                "product_name": "Mobilarma 522 / 524 (Oli Industri)",
+                "product_description": "Oli industri Mobilarma untuk perlindungan dari korosi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil Velocite Oil No. 3 (Spindle and Hydraulic Oils)",
+                "product_description": "Oli spindle Mobil Velocite untuk presisi tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil SHD 529 (Gear And Bearing Oils)",
+                "product_description": "Oli gear dan bearing Mobil SHD 529 untuk kinerja unggul.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobilgard 300 (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Mobilgard 300 untuk daya tahan tinggi.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobil System Cleaner (Oli Industri)",
+                "product_description": "Pembersih sistem industri Mobil System Cleaner untuk efisiensi optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobilgard 450 NV (Oli Mesin Diesel - Marine)",
+                "product_description": "Oli mesin diesel laut Mobilgard 450 NV untuk kapal.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobilgard ADL 30 / 40 (Oli Mesin Diesel - Marine)",
+                "product_description": "Oli mesin diesel laut Mobilgard ADL untuk efisiensi tinggi.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobilgard M330 & M430 (Oli Mesin Diesel - Marine)",
+                "product_description": "Oli diesel marine Mobilgard M330 & M430 untuk aplikasi berat.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Mobilgard m440 (Oli Mesin Diesel - Marine)",
+                "product_description": "Oli diesel marine Mobilgard m440 untuk daya tahan.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobilgard M50 (Oli Mesin Diesel - Marine)",
+                "product_description": "Oli diesel marine Mobilgard M50 untuk perlindungan unggul.",
+                "product_stock": 5
+            },
+            {
+                "product_name": "Mobil SHC Chain 240 (Oli Industri)",
+                "product_description": "Oli rantai sintetis Mobil SHC Chain 240 untuk performa tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "MOBIL SHC GEAR 3200 (Oli Gear Sintetik)",
+                "product_description": "Oli gear sintetis Mobil SHC GEAR 3200 untuk efisiensi optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil Glygoyle 11 / 22 / 30 (Bearing and Industrial enclosed gears)",
+                "product_description": "Oli bearing dan gear industri Mobil Glygoyle untuk kinerja tahan lama.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobilgard 570 (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Mobilgard 570 untuk perlindungan maksimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobilgard 560 VS (Oli Silinder Mesin Diesel)",
+                "product_description": "Oli silinder mesin diesel Mobilgard 560 VS untuk performa tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobilgard HDS 20W-50 (High Speed Diesel Oils)",
+                "product_description": "Oli diesel kecepatan tinggi Mobilgard HDS 20W-50 untuk efisiensi unggul.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Oli Mobil Jet II (Oli Turbin Gas Pesawat)",
+                "product_description": "Oli turbin gas pesawat Mobil Jet II untuk performa optimal.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobil EAL ARTIC 32 46 68 100 220",
+                "product_description": "Oli sintetis Mobil EAL ARTIC untuk aplikasi pendinginan ramah lingkungan.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil Gargoyle Arctic SHC 224 / 226E 230 (Kompresor pendingin)",
+                "product_description": "Oli kompresor pendingin Mobil Gargoyle Arctic SHC untuk suhu rendah.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil DTE 932 GT (Oli Turbin)",
+                "product_description": "Oli turbin Mobil DTE 932 GT untuk efisiensi tinggi dan daya tahan.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Mobil DTE 832 / 846 (Oli Turbin)",
+                "product_description": "Oli turbin Mobil DTE 832/846 untuk perlindungan dan efisiensi maksimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobilgear SHC XMP 150 / 220 / 320 / 460 / 680 (Oli Gear)",
+                "product_description": "Oli gear sintetis Mobilgear SHC XMP untuk kinerja unggul.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Mobilgear XMP 100 / 150 / 220 / 320 / 460 / 680 (Oli Gear Industri)",
+                "product_description": "Oli gear industri Mobilgear XMP untuk daya tahan dan perlindungan optimal.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil Zerice S 15 / 32 / 46 / 68 / 100 (Oli Kompressor Pendingin)",
+                "product_description": "Oli kompresor pendingin Mobil Zerice S untuk efisiensi suhu rendah.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Mobil Gargoyle Arctic Oil 115 / 300 (Oli Kompresor Pendingin)",
+                "product_description": "Oli kompresor pendingin Mobil Gargoyle Arctic Oil untuk performa stabil.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobil 600W Super Cylinder Oil (Steam Cylinder Oil)",
+                "product_description": "Oli silinder uap Mobil 600W untuk perlindungan tinggi.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Mobil Pyrotec HFD 46 (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Mobil Pyrotec HFD untuk aplikasi tekanan tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Mobil SHC Gear 220 / 320 / 460 (Oli Gear Synthetic)",
+                "product_description": "Oli gear sintetis Mobil SHC Gear untuk kinerja maksimal.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Mobil SHC Gear 626 / 680 / 6800 (Oli Sintetik Gear Industri)",
+                "product_description": "Oli gear sintetis Mobil SHC Gear untuk industri berat.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Mobil Teresstic Ac 32 (Compressor dan Circulating Oil)",
+                "product_description": "Oli kompresor dan sirkulasi Mobil Teresstic Ac untuk efisiensi optimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Mobil SHC Hydraulic EAL 32 / 46 / 68",
+                "product_description": "Oli hidrolik sintetis Mobil SHC Hydraulic EAL untuk lingkungan ramah.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Oli dan Pelumas Mobil Dte 732",
+                "product_description": "Oli turbin premium Mobil DTE 732 untuk efisiensi tinggi.",
+                "product_stock": 8
+            }
+        ]
+    },
+    {
+        "brand_name": "PERTAMINA",
+        "brand_products": [
+            {
+                "product_name": "Turalik 69 (Oli Hidrolik)",
+                "product_description": "Turalik 69 (Oli Hidrolik)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Medripal 320/420 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Medripal 320/420 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Mesran Super 20W-50 (SG/CD) (Oli Sepeda Motor)",
+                "product_description": "Pertamina Mesran Super 20W-50 (SG/CD) (Oli Sepeda Motor)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Rored EPA 90/140 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_description": "Pertamina Rored EPA 90/140 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Rored EPA 75W-90 / 80W / 80W-9 / 85W-90 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_description": "Pertamina Rored EPA 75W-90 / 80W / 80W-9 / 85W-90 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Rored HDA 90/140 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_description": "Pertamina Rored HDA 90/140 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Rored HDA 80W-90 / 85W-90 / 85W-140 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_description": "Pertamina Rored HDA 80W-90 / 85W-90 / 85W-140 (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pelumas Pertamina Prima XP 10W/40 API SM (Oli Motor Mobil Penumpang)",
+                "product_description": "Pelumas Pertamina Prima XP 10W/40 API SM (Oli Motor Mobil Penumpang)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Medripal 307 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Medripal 307 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina ATF Dextron VI (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_description": "Pertamina ATF Dextron VI (Oli Transmisi Otomatis & Oli Transmisi Manual)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Diloka 448 X (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Diloka 448 X (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Meditran SX Plus 15W-40 CI4 (Oli Diesel Tugas Berat)",
+                "product_description": "Pertamina Meditran SX Plus 15W-40 CI4 (Oli Diesel Tugas Berat)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Medripal 311/411 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Medripal 311/411 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Medripal 312/412/512 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Medripal 312/412/512 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Medripal 330/430 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Medripal 330/430 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Medripal 440/540 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Medripal 440/540 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Salyx 308/408 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Salyx 308/408 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Salyx 312/412 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Salyx 312/412 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Salyx 315/415 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Salyx 315/415 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Salyx 320/420 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Salyx 320/420 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Pertamina Meditran SMX 40 (Oli Mesin Industri & Kelautan)",
+                "product_description": "Pertamina Meditran SMX 40 (Oli Mesin Industri & Kelautan)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Turalik 69 (Oli Hidrolik)",
+                "product_description": "Turalik 69 (Oli Hidrolik)",
+                "product_stock": 1
+            }
+        ]
+    },
+    {
+        "brand_name": "SHELL",
+        "brand_products": [
+            {
+                "product_name": "Oli Gear Shell Omala S2 GS 680 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S2 GS 680 untuk kinerja yang andal.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Oli gear Shell Omala S2 GX 220 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S2 GX 220 untuk perlindungan gigi optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S4 P 100 (Advanced Synthetic Reciprocating (Piston) Air Compressor Oil)",
+                "product_description": "Oli sintetis Shell Corena S4 P 100 untuk kompresor piston udara.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S4 R 46 / 68 (Advanced Synthetic Rotary Air Compressor Oil)",
+                "product_description": "Oli sintetis Shell Corena S4 R untuk kompresor rotary.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S2 P150 (Oli Kompresor Udara)",
+                "product_description": "Oli Shell Corena S2 P150 untuk kompresor udara berkinerja tinggi.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S4 R Iso VG 46",
+                "product_description": "Oli kompresor Shell Corena S4 R ISO VG 46 untuk efisiensi tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S3 R 68 ISO VG 68",
+                "product_description": "Oli kompresor Shell Corena S3 R 68 untuk kinerja optimal.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S2 P 100 (Oli Kompresor Udara)",
+                "product_description": "Oli Shell Corena S2 P 100 untuk perlindungan kompresor udara.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S3 R 46 ISO VG 46",
+                "product_description": "Oli kompresor Shell Corena S3 R 46 untuk aplikasi rotary.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Oli Kompresor Shell Corena S3 R 32 ISO VG 32",
+                "product_description": "Oli kompresor Shell Corena S3 R 32 untuk efisiensi suhu rendah.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Gadus S2 V100 2 / 3 (Minyak gemuk)",
+                "product_description": "Minyak gemuk Shell Gadus S2 V100 untuk aplikasi multi-fungsi.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Oli Shell Argina S 30 40 (Diesel Engine Oil)",
+                "product_description": "Oli mesin diesel Shell Argina S untuk kinerja tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Gadus S2 V460A 2 (Minyak Gemuk)",
+                "product_description": "Minyak gemuk Shell Gadus S2 V460A untuk perlindungan berat.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Morlina S4 B100 150 220 320 (Oli Bearing & Circulating)",
+                "product_description": "Oli bearing dan sirkulasi Shell Morlina S4 B untuk daya tahan unggul.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Refrigeration S2 FR-A 68 (Oli Kompresor Pendingin)",
+                "product_description": "Oli pendingin Shell Refrigeration S2 FR-A untuk perlindungan suhu rendah.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Refrigeration Oil S4 FR-F 68 (Oli Kompresor Pendingin)",
+                "product_description": "Oli pendingin Shell S4 FR-F untuk kinerja optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Morlina S2 B 150 220 320",
+                "product_description": "Oli bearing Shell Morlina S2 B untuk aplikasi sirkulasi umum.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Shell Gadus S1 OG 200 (Grease Open Gear)",
+                "product_description": "Minyak gemuk Shell Gadus S1 OG untuk perlindungan gigi terbuka.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Gadus S2 V220AC 2 (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Shell Gadus S2 V220AC untuk perlindungan unggul.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Spirax S4 CX 60 (Oli Transmisi dan Final Drive)",
+                "product_description": "Oli transmisi Shell Spirax S4 CX 60 untuk daya tahan tinggi.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Shell Refrigeration S4 FR-V 68 (Oli Kompresor Pendingin)",
+                "product_description": "Oli kompresor pendingin Shell Refrigeration S4 FR-V 68 untuk efisiensi tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Gadus S3 V460D 2 (Minyak Gemuk)",
+                "product_description": "Minyak gemuk Shell Gadus S3 V460D 2 untuk beban berat dan suhu tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Omala S4 Gx 460 (Oli Synthetic Gear Box)",
+                "product_description": "Oli gear box sintetis Shell Omala S4 GX 460 untuk perlindungan maksimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Omala S4 GX 320 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S4 GX 320 untuk daya tahan lebih lama.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Gadus S2 V220 0 12 (Grease Serbaguna)",
+                "product_description": "Minyak gemuk serbaguna Shell Gadus S2 V220 untuk aplikasi industri.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Shell Omala S4 GX 220 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S4 GX 220 untuk efisiensi tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Argina S4 40 (Lubricants for medium-speed trunk piston engines)",
+                "product_description": "Pelumas mesin piston Shell Argina S4 40 untuk performa unggul.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Diala S4 ZX I (Oli Trafo Listrik)",
+                "product_description": "Oli trafo listrik Shell Diala S4 ZX I untuk pendinginan dan isolasi.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Omala S4 WE 680 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S4 WE 680 untuk kinerja berat.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Gadus S2 U460L2 (Gemuk Alat Berat)",
+                "product_description": "Minyak gemuk Shell Gadus S2 U460L2 untuk alat berat.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Omala S2 GX 460 (Industrial Gear Oil)",
+                "product_description": "Oli gear industri Shell Omala S2 GX 460 untuk aplikasi berat.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Omala S4 WE 150 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S4 WE 150 untuk efisiensi energi.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Shell Diala S4 ZX I (Oli Trafo Listrik) Pail",
+                "product_description": "Oli trafo listrik Shell Diala S4 ZX I dalam kemasan pail.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Melina S 30 (Oli Diesel Marine)",
+                "product_description": "Oli diesel marine Shell Melina S 30 untuk performa optimal.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Tonna S2 M 68 (Oli Sideway)",
+                "product_description": "Oli Shell Tonna S2 M 68 untuk aplikasi jalur geser.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Gadus S3 V220C 0 / 1 / 2 (Minyak Gemuk)",
+                "product_description": "Minyak gemuk Shell Gadus S3 V220C untuk berbagai aplikasi berat.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Omala S4 WE 220 (Oli Gear Box)",
+                "product_description": "Oli gear box Shell Omala S4 WE 220 untuk perlindungan gigi yang optimal.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Tellus S2 MX 46 (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Shell Tellus S2 MX 46 untuk daya tahan sistem.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Shell Spirax S2 A 85W-140",
+                "product_description": "Oli transmisi Shell Spirax S2 A 85W-140 untuk kendaraan berat.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Argina S3 30 / 40 (Lubricants for medium-speed trunk piston engines)",
+                "product_description": "Pelumas mesin Shell Argina S3 untuk kinerja tinggi.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Tellus S2 MX 68 (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Shell Tellus S2 MX 68 untuk keandalan dan efisiensi.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Shell Tellus S2 MX 32 (Oli Hidrolik)",
+                "product_description": "Oli hidrolik Shell Tellus S2 MX 32 untuk aplikasi presisi tinggi.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Gadinia S3 30 / 40 (Oli Diesel Marine)",
+                "product_description": "Oli diesel marine Shell Gadinia S3 untuk performa maksimal.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Gadus S2 OG 15 / 20 / 40 / 50 / 70 / 80 / 85",
+                "product_description": "Minyak gemuk Shell Gadus S2 OG untuk berbagai aplikasi gear terbuka.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Rimula R2 10W (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Shell Rimula R2 untuk perlindungan mesin optimal.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Shell Spirax S2 A 80W-90 (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Shell Spirax S2 A 80W-90 untuk transmisi kendaraan berat.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Spirax S3 80W (Oli Mesin Diesel)",
+                "product_description": "Oli mesin diesel Shell Spirax S3 80W untuk performa optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Spirax S4 CX 10W (Oli Transmisi dan Hidrolik)",
+                "product_description": "Oli transmisi dan hidrolik Shell Spirax S4 CX 10W untuk daya tahan tinggi.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "Shell Spirax S4 CX 50 (Oli Transmisi dan Final Drive)",
+                "product_description": "Oli transmisi Shell Spirax S4 CX 50 untuk efisiensi kendaraan berat.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Gadus S2 A320 2 (Minyak Gemuk)",
+                "product_description": "Minyak gemuk Shell Gadus S2 A320 2 untuk perlindungan gigi gear.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Argina S5 40 (Lubricants for medium-speed trunk piston engines)",
+                "product_description": "Pelumas mesin Shell Argina S5 40 untuk kinerja berat.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Spirax S5 CFD M 60 (Oli Gardan dan Final Drive)",
+                "product_description": "Oli gardan Shell Spirax S5 CFD M 60 untuk daya tahan tinggi.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Mysella S3 N 40 (Oli Mesin Gas Stasioner)",
+                "product_description": "Oli mesin gas stasioner Shell Mysella S3 N 40 untuk efisiensi bahan bakar.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Mysella S3 S 40 (Oli Mesin Gas)",
+                "product_description": "Oli mesin gas Shell Mysella S3 S 40 untuk daya tahan mesin.",
+                "product_stock": 11
+            },
+            {
+                "product_name": "Shell Mysella S5 N 40 (Oli Mesin Gas)",
+                "product_description": "Oli mesin gas Shell Mysella S5 N 40 untuk penghematan energi.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Shell Mysella S5 40 (Oli Mesin Gas Industri)",
+                "product_description": "Oli mesin gas industri Shell Mysella S5 40 untuk efisiensi tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Shell Paper Machine Oil S3 M 150 / 220 / 320 (Paper Machine Circulating Oils)",
+                "product_description": "Oli mesin kertas Shell S3 M untuk performa sirkulasi optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Spirax S4 CX 30 (Transmission and Hydraulic Oil)",
+                "product_description": "Oli transmisi dan hidrolik Shell Spirax S4 CX 30 untuk sistem modern.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Shell Omala S2 GX 150 (Industrial Gear Oil)",
+                "product_description": "Oli gear industri Shell Omala S2 GX 150 untuk perlindungan lebih baik.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Shell Omala S2 G 1000 (Industrial Gear Oil)",
+                "product_description": "Oli gear industri Shell Omala S2 G 1000 untuk perlindungan berat.",
+                "product_stock": 8
+            }
+        ]
+    },
+    {
+        "brand_name": "TOTAL",
+        "brand_products": [
+            {
+                "product_name": "Oli Kompresor Total Dacnis SH 32 46 68 100",
+                "product_description": "Oli kompresor untuk aplikasi industri dengan performa tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Kompresor TOTAL DACNIS 68 / 100 / 150",
+                "product_description": "Oli kompresor TOTAL DACNIS tersedia dalam berbagai viskositas.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "- TOTAL HBF 3 -",
+                "product_description": "Cairan rem TOTAL HBF 3 untuk performa pengereman optimal.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "TOTAL LUNARIA FR 32 / 46 / 68",
+                "product_description": "Pelumas untuk sistem pendingin TOTAL LUNARIA FR.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "TOTAL MULTIS EP - 00",
+                "product_description": "Gemuk multi fungsi TOTAL MULTIS EP dengan kinerja luar biasa.",
+                "product_stock": 20
+            },
+            {
+                "product_name": "Grease TOTAL COPAL OGL 0",
+                "product_description": "Grease TOTAL COPAL OGL 0 untuk aplikasi berat.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Dan Pelumas Total Carter SY 150 220 320 460 680",
+                "product_description": "Pelumas sintetik untuk aplikasi gear industri TOTAL CARTER SY.",
+                "product_stock": 18
+            },
+            {
+                "product_name": "Grease Total Altis SH 2",
+                "product_description": "Grease Total Altis SH 2 untuk kondisi suhu tinggi.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "TOTAL FLUIDMATIC III - G",
+                "product_description": "Pelumas transmisi otomatis TOTAL FLUIDMATIC III - G.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "Oli dan Pelumas Total Carter SH 320",
+                "product_description": "Pelumas gear TOTAL CARTER SH untuk aplikasi industri.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Total Altis EM 2 (Gemuk Suhu Tinggi)",
+                "product_description": "Grease TOTAL ALTIS EM 2 untuk aplikasi suhu ekstrem.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Total Azolla ZS 22 32 46 68 100 150",
+                "product_description": "Oli hidrolik TOTAL AZOLLA ZS untuk performa mesin optimal.",
+                "product_stock": 20
+            },
+            {
+                "product_name": "Total RUBIA TIR 8600 10W-40",
+                "product_description": "Oli mesin diesel TOTAL RUBIA TIR untuk kinerja tahan lama.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "- TOTAL MULTIS XHV 2 - ",
+                "product_description": "Grease TOTAL MULTIS XHV 2 untuk perlindungan ekstra.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Total Carter SH 150 220 320 460 680 (PAO Gear Oil)",
+                "product_description": "Pelumas PAO gear oil TOTAL CARTER SH untuk aplikasi industri.",
+                "product_stock": 5
+            },
+            {
+                "product_name": "- TOTAL SERIOLA 1510 -",
+                "product_description": "Pelumas khusus transfer panas TOTAL SERIOLA 1510.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "TOTAL MULTIS EP - 1",
+                "product_description": "Gemuk multi fungsi TOTAL MULTIS EP dengan kinerja tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "TOTAL MULTIS EP - 0",
+                "product_description": "Gemuk TOTAL MULTIS EP untuk aplikasi industri.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "TOTAL CARTER SY 150 / 220",
+                "product_description": "Pelumas TOTAL CARTER SY untuk sistem gear industri.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "- TOTAL WT SUPRA -",
+                "product_description": "Pelumas TOTAL WT SUPRA untuk aplikasi khusus.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "TOTAL MULTIS COMPLEX EP 3",
+                "product_description": "Gemuk multi fungsi TOTAL MULTIS COMPLEX EP 3.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "TOTAL TRANSTEC 4 85W - 140",
+                "product_description": "Oli transmisi TOTAL TRANSTEC 4 untuk perlindungan maksimal.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "Total Carter SH 220 (Oli Gear Sintetik)",
+                "product_description": "Oli gear sintetik TOTAL CARTER SH untuk perlindungan unggul.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Total Carter EP 100 (Oli Gear Tertutup)",
+                "product_description": "Oli gear tertutup TOTAL CARTER EP untuk aplikasi industri.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "TOTAL MULTIS COMPLEX EP 2 (GREASE)",
+                "product_description": "Grease multi fungsi TOTAL MULTIS COMPLEX EP 2.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "Oli Total Carter EP 220 (Oli Gear Tertutup)",
+                "product_description": "Oli gear tertutup TOTAL CARTER EP 220 dengan performa tinggi.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Total Azolla ZS 32",
+                "product_description": "Oli hidrolik TOTAL AZOLLA ZS 32 untuk mesin presisi.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "Total Carter EP 68 (Oli Gear Tertutup)",
+                "product_description": "Oli gear tertutup TOTAL CARTER EP 68 untuk aplikasi industri.",
+                "product_stock": 9
+            },
+            {
+                "product_name": "Total Azolla AF 46",
+                "product_description": "Oli hidrolik TOTAL AZOLLA AF 46 untuk keandalan mesin.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "Oli Total Azolla AF 22 32 46 68 100",
+                "product_description": "Seri oli hidrolik TOTAL AZOLLA AF untuk performa optimal.",
+                "product_stock": 18
+            },
+            {
+                "product_name": "Oli Kompresor Total PLANETELF ACD 220 FY",
+                "product_description": "Oli kompresor pendingin TOTAL PLANETELF ACD 220 FY.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "Total PLANETELF ACD 32 46 68 (Oli Kompresor Pendingin)",
+                "product_description": "Oli kompresor pendingin TOTAL PLANETELF ACD untuk sistem pendingin.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "TOTAL RUBIA FLEET HD 300 15W-40 / 20W-50",
+                "product_description": "Oli mesin diesel TOTAL RUBIA FLEET HD untuk performa tahan lama.",
+                "product_stock": 20
+            },
+            {
+                "product_name": "TOTAL RUBIA FLEET HD 200 10W / 30 / 40 / 50",
+                "product_description": "Oli mesin diesel TOTAL RUBIA FLEET HD untuk berbagai kebutuhan.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "TOTAL RUBIA FLEET HD 200 15W-40 / 20W-40 / 20W-50",
+                "product_description": "Oli mesin diesel TOTAL RUBIA FLEET HD untuk efisiensi bahan bakar.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "TOTAL RUBIA WORKS 1000 15W-40",
+                "product_description": "Oli mesin diesel tugas berat TOTAL RUBIA WORKS.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "TOTAL DYNATRANS AC 10W / 30 / 50",
+                "product_description": "Oli transmisi TOTAL DYNATRANS AC untuk perlindungan maksimal.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "TOTAL DYNATRANS MPV",
+                "product_description": "Oli transmisi multi-fungsi TOTAL DYNATRANS MPV.",
+                "product_stock": 14
+            },
+            {
+                "product_name": "TOTAL CARTER xep 150/220/320/460/680",
+                "product_description": "Pelumas TOTAL CARTER XEP untuk sistem gear industri.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "TOTAL CORTIS XHT 68/245/320",
+                "product_description": "Pelumas suhu tinggi TOTAL CORTIS XHT untuk aplikasi khusus.",
+                "product_stock": 7
+            },
+            {
+                "product_name": "TOTAL HBF 4",
+                "product_description": "Cairan rem TOTAL HBF 4 untuk kinerja pengereman optimal.",
+                "product_stock": 12
+            },
+            {
+                "product_name": "TOTAL CALORIS 23",
+                "product_description": "Pelumas transfer panas TOTAL CALORIS 23 untuk efisiensi energi.",
+                "product_stock": 6
+            },
+            {
+                "product_name": "TOTAL CARTER ENS/EP 700",
+                "product_description": "Pelumas TOTAL CARTER ENS/EP 700 untuk aplikasi gear tertutup.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "TOTAL LACTUCA LT2",
+                "product_description": "Cairan pendingin TOTAL LACTUCA LT2 untuk keandalan mesin.",
+                "product_stock": 15
+            },
+            {
+                "product_name": "TOTAL NATERIA MH 40",
+                "product_description": "Pelumas TOTAL NATERIA MH 40 untuk aplikasi mesin gas.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "TOTAL NATERIA MJ 40",
+                "product_description": "Pelumas TOTAL NATERIA MJ 40 untuk performa optimal.",
+                "product_stock": 10
+            },
+            {
+                "product_name": "TOTAL NEVASTANE HTF",
+                "product_description": "Pelumas food-grade TOTAL NEVASTANE HTF untuk aplikasi suhu tinggi.",
+                "product_stock": 8
+            },
+            {
+                "product_name": "TOTAL RUBIA ST 315/415",
+                "product_description": "Oli mesin diesel TOTAL RUBIA ST untuk aplikasi tugas berat.",
+                "product_stock": 14
+            }
+        ]
+    },
+    {
+        "brand_name": "VALVOLINE",
+        "brand_products": [
+            {
+                "product_name": "Tectyl 300G Clear E (Clear Dan Black)",
+                "product_description": "Tectyl 300G Clear E (Clear Dan Black)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Dan Pelumas Tectyl RP 350",
+                "product_description": "Oli Dan Pelumas Tectyl RP 350",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Valcoline Tectyl 502 C",
+                "product_description": "Valcoline Tectyl 502 C",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Daubert Cromwell Nox-Rust 7800",
+                "product_description": "Daubert Cromwell Nox-Rust 7800",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Dan Pelumas Valvoline Tectyl 506",
+                "product_description": "Oli Dan Pelumas Valvoline Tectyl 506",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Dan Pelumas Valvoline Tectyl 506-Eh",
+                "product_description": "Oli Dan Pelumas Valvoline Tectyl 506-Eh",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline VALMARINE 1240",
+                "product_description": "Oli Valvoline VALMARINE 1240",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline GEAR GARD SUPER 90 API GL 5",
+                "product_description": "Oli Valvoline GEAR GARD SUPER 90 API GL 5",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline ALL FLEET TURBO 15W40 20W50",
+                "product_description": "Oli Valvoline ALL FLEET TURBO 15W40 20W50",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Valvoline ALL FLEET PLUS 10W30",
+                "product_description": "Valvoline ALL FLEET PLUS 10W30",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline ALL FLEET PREMIUM 15W40",
+                "product_description": "Oli Valvoline ALL FLEET PREMIUM 15W40",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline DEXRON III ATF",
+                "product_description": "Oli Valvoline DEXRON III ATF",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline Zerex G 93-94",
+                "product_description": "Oli Valvoline Zerex G 93-94",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline ULTRAMAX AW 32 46 68 100",
+                "product_description": "Oli Valvoline ULTRAMAX AW 32 46 68 100",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Oli Valvoline Premium Blue 15W-40 (Oli Diesel Engine)",
+                "product_description": "Oli Valvoline Premium Blue 15W-40 (Oli Diesel Engine)",
+                "product_stock": 1
+            },
+            {
+                "product_name": "Tectyl 506 Aerosol Spray (Pelumas Anti Karat)",
+                "product_description": "Tectyl 506 Aerosol Spray (Pelumas Anti Karat)",
+                "product_stock": 1
+            }
+        ]
+    }
+]
