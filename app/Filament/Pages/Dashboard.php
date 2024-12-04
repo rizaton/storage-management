@@ -2,10 +2,11 @@
 
 namespace App\Filament\Pages;
 
+use App\Filament\Widgets\LowStockCardWidget;
 use Filament\Panel;
 use App\Models\User;
 use Filament\Widgets;
-use App\Filament\Widgets\LowProduct;
+use App\Filament\Widgets\LowStockWidget;
 
 class Dashboard extends \Filament\Pages\Dashboard
 {
@@ -14,8 +15,9 @@ class Dashboard extends \Filament\Pages\Dashboard
     public function getWidgets(): array
     {
         return [
+            LowStockCardWidget::class,
             Widgets\AccountWidget::class,
-            LowProduct::class,
+            LowStockWidget::class,
         ];
     }
 }

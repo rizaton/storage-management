@@ -2,19 +2,18 @@
 
 namespace App\Filament\Widgets;
 
-use App\Models\Product;
 use Filament\Tables;
-use Illuminate\Database\Eloquent\Builder;
+use App\Models\Product;
 use Filament\Tables\Table;
 use Filament\Widgets\TableWidget as BaseWidget;
 
-class LowProduct extends BaseWidget
+class LowStockWidget extends BaseWidget
 {
     protected int | string | array $columnSpan = 'full';
 
     protected static ?string $model = Product::class;
 
-    protected static ?string $heading = 'Produk dengan Stok Kurang dari 10';
+    protected static ?string $heading = 'Stok rendah';
 
     public function table(Table $table): Table
     {
@@ -32,13 +31,6 @@ class LowProduct extends BaseWidget
                     ->sortable(),
             ])
             ->hiddenFilterIndicators(true)
-            ->actions([
-                Tables\Actions\EditAction::make(),
-            ])
-            ->bulkActions([
-                Tables\Actions\BulkActionGroup::make([
-                    Tables\Actions\DeleteBulkAction::make(),
-                ]),
-            ]);
+            ->paginationPageOptions([5]);
     }
 }
