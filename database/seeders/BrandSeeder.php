@@ -3,9 +3,10 @@
 namespace Database\Seeders;
 
 use App\Models\Brand;
+use Illuminate\Support\Str;
+use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\File;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
-use Illuminate\Database\Seeder;
 
 class BrandSeeder extends Seeder
 {
@@ -14,12 +15,14 @@ class BrandSeeder extends Seeder
      */
     public function run(): void
     {
-        $raw_json = File::get("database/seeders/oil_data.json");
-        $oil_brands_data = json_decode($raw_json);
+        $oil_brands_data = json_decode(
+            File::get("database/seeders/oil_data.json")
+        );
 
         foreach ($oil_brands_data as $each_brand_data) {
             Brand::create([
                 'name' => $each_brand_data->brand_name,
+                'slug' => Str::slug($each_brand_data->brand_name),
             ]);
         }
     }

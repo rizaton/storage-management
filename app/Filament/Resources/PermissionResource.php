@@ -20,7 +20,9 @@ class PermissionResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-key';
 
-    protected static ?string $navigationGroup = 'User Management';
+    // protected static ?string $navigationGroup = 'Access Control';
+
+    protected static ?string $navigationGroup = 'Security Settings';
 
     protected static ?int $navigationSort = 3;
 
@@ -30,7 +32,7 @@ class PermissionResource extends Resource
             ->schema([
                 Section::make()->schema([
                     Forms\Components\TextInput::make('name')
-                        ->label('Nama Akses')
+                        ->label('Access Name')
                         ->minLength(2)
                         ->maxLength(255)
                         ->unique()
@@ -44,7 +46,7 @@ class PermissionResource extends Resource
         return $table
             ->columns([
                 Tables\Columns\TextColumn::make('name')
-                    ->label('Hak Akses')
+                    ->label('Access Name')
                     ->searchable()
                     ->sortable(),
                 Tables\Columns\TextColumn::make('created_at')
@@ -57,7 +59,11 @@ class PermissionResource extends Resource
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
-                //
+                Tables\Filters\QueryBuilder::make()
+                    ->constraints([
+                        Tables\Filters\QueryBuilder\Constraints\DateConstraint::make('created_at'),
+                        Tables\Filters\QueryBuilder\Constraints\DateConstraint::make('updated_at')
+                    ]),
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),

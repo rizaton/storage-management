@@ -11,7 +11,7 @@ class Product extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['name', 'description', 'brand_id', 'stock'];
+    protected $fillable = ['name', 'description', 'brand_id', 'stock', 'slug'];
 
     public function brand(): BelongsTo
     {

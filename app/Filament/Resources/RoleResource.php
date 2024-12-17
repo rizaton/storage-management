@@ -20,7 +20,14 @@ class RoleResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-shield-check';
 
-    protected static ?string $navigationGroup = 'User Management';
+    // protected static ?string $navigationGroup = 'Access Control';
+
+    protected static ?string $navigationGroup = 'Security Settings';
+
+    // public static function getNavigationParentItem(): ?string
+    // {
+    //     return __('filament/navigation.groups.settings.items.security-settings');
+    // }
 
     protected static ?int $navigationSort = 2;
 
@@ -30,6 +37,7 @@ class RoleResource extends Resource
             ->schema([
                 Section::make()->schema([
                     Forms\Components\TextInput::make('name')
+                        ->label('Role Name')
                         ->minLength(2)
                         ->maxLength(255)
                         ->required(),
@@ -42,7 +50,7 @@ class RoleResource extends Resource
         return $table
             ->columns([
                 Tables\Columns\TextColumn::make('name')
-                    ->label('Nama Role')
+                    ->label('Role Name')
                     ->searchable()
                     ->sortable(),
                 Tables\Columns\TextColumn::make('created_at')
@@ -55,7 +63,11 @@ class RoleResource extends Resource
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
-                //
+                Tables\Filters\QueryBuilder::make()
+                    ->constraints([
+                        Tables\Filters\QueryBuilder\Constraints\DateConstraint::make('created_at'),
+                        Tables\Filters\QueryBuilder\Constraints\DateConstraint::make('updated_at')
+                    ]),
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),

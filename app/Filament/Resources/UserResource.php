@@ -6,6 +6,8 @@ use Filament\Forms;
 use App\Models\User;
 use Filament\Tables;
 use Filament\Forms\Form;
+use Filament\Infolists;
+use Filament\Infolists\Infolist;
 use Filament\Tables\Table;
 use Filament\Resources\Resource;
 use Filament\Forms\Components\Section;
@@ -21,7 +23,9 @@ class UserResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-users';
 
-    protected static ?string $navigationGroup = 'User Management';
+    protected static ?string $navigationGroup = 'Security Settings';
+
+    protected static ?string $navigationLabel = 'User Management';
 
     protected static ?int $navigationSort = 1;
 
@@ -31,13 +35,16 @@ class UserResource extends Resource
             ->schema([
                 Section::make()->schema([
                     Forms\Components\TextInput::make('name')
-                        ->required(),
+                        ->required()
+                        ->autocomplete(false),
                     Forms\Components\TextInput::make('email')
                         ->email()
-                        ->required(),
+                        ->required()
+                        ->autocomplete(false),
                     Forms\Components\TextInput::make('password')
                         ->password()
-                        ->required(),
+                        ->required()
+                        ->autocomplete(false),
                 ])
             ]);
     }
@@ -54,7 +61,6 @@ class UserResource extends Resource
                     ->icon('heroicon-o-check-circle')
                     ->label('Email Verified')
                     ->color('info'),
-                // ->toggleable(isToggledHiddenByDefault: true),
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
@@ -65,15 +71,46 @@ class UserResource extends Resource
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
-                //
+                Tables\Filters\QueryBuilder::make()
+                    ->constraints([
+                        Tables\Filters\QueryBuilder\Constraints\DateConstraint::make('created_at'),
+                        Tables\Filters\QueryBuilder\Constraints\DateConstraint::make('updated_at')
+                    ]),
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
+                Tables\Actions\ViewAction::make(),
             ])
             ->bulkActions([
                 Tables\Actions\BulkActionGroup::make([
                     Tables\Actions\DeleteBulkAction::make(),
                 ]),
+            ]);
+    }
+
+    public static function infolist(Infolist $infolist): Infolist
+    {
+        return $infolist
+            ->schema([
+                Infolists\Components\Tabs::make('Tabs')
+                    ->tabs([
+                        Infolists\Components\Tabs\Tab::make('General')
+                            ->schema([
+                                Infolists\Components\TextEntry::make('name'),
+                                Infolists\Components\TextEntry::make('email'),
+                                Infolists\Components\IconEntry::make('email_verified_at')
+                                    ->label('Email Verified')
+                                    ->icon('heroicon-o-check-circle')
+                                    ->color('info')
+                                    ->placeholder('Not Verified'),
+                            ]),
+                        Infolists\Components\Tabs\Tab::make('Timestamps')
+                            ->schema([
+                                Infolists\Components\TextEntry::make('created_at'),
+                                Infolists\Components\TextEntry::make('updated_at'),
+                                Infolists\Components\TextEntry::make('email_verified_at')
+                            ]),
+                    ])->columnSpanFull()
             ]);
     }
 
@@ -89,6 +126,7 @@ class UserResource extends Resource
         return [
             'index' => Pages\ListUsers::route('/'),
             'create' => Pages\CreateUser::route('/create'),
+            'view' => Pages\ViewUser::route('/{record}'),
             'edit' => Pages\EditUser::route('/{record}/edit'),
         ];
     }

@@ -2,22 +2,23 @@
 
 namespace App\Filament\Pages;
 
-use App\Filament\Widgets\LowStockCardWidget;
 use Filament\Panel;
 use App\Models\User;
 use Filament\Widgets;
-use App\Filament\Widgets\LowStockWidget;
+use App\Filament;
 
 class Dashboard extends \Filament\Pages\Dashboard
 {
     protected static ?string $title = 'Dashboard';
 
+    protected static ?int $navigationSort = 1;
+
     public function getWidgets(): array
     {
         return [
-            LowStockCardWidget::class,
+            Filament\Widgets\LowStockCardWidget::class,
             Widgets\AccountWidget::class,
-            LowStockWidget::class,
+            Filament\Widgets\LowStockTableWidget::class,
         ];
     }
 }
