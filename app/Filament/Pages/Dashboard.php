@@ -2,8 +2,6 @@
 
 namespace App\Filament\Pages;
 
-use Filament\Panel;
-use App\Models\User;
 use Filament\Widgets;
 use App\Filament;
 
@@ -18,6 +16,8 @@ class Dashboard extends \Filament\Pages\Dashboard
         return [
             Filament\Widgets\LowStockCardWidget::class,
             Widgets\AccountWidget::class,
+            Filament\Widgets\ProductChart::class,
+            Filament\Widgets\BrandChart::class,
             Filament\Widgets\LowStockTableWidget::class,
         ];
     }

@@ -13,12 +13,12 @@ class LowStockTableWidget extends BaseWidget
 
     protected static ?string $model = Product::class;
 
-    protected static ?string $heading = 'Low Product Stock';
+    protected static ?string $heading = 'Low Stock Products';
 
     public function table(Table $table): Table
     {
         return $table
-            ->query(Product::query()->where('stock', '<', 5))
+            ->query(Product::query()->where('stock', '<=', 5))
             ->columns([
                 Tables\Columns\TextColumn::make('name')
                     ->description(fn(Product $record): string => $record->description)

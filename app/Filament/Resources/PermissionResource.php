@@ -20,8 +20,6 @@ class PermissionResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-key';
 
-    // protected static ?string $navigationGroup = 'Access Control';
-
     protected static ?string $navigationGroup = 'Security Settings';
 
     protected static ?int $navigationSort = 3;
@@ -73,13 +71,6 @@ class PermissionResource extends Resource
                     Tables\Actions\DeleteBulkAction::make(),
                 ]),
             ]);
-    }
-
-    public static function getRelations(): array
-    {
-        return [
-            //
-        ];
     }
 
     public static function getPages(): array

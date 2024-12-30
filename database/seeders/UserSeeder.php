@@ -18,11 +18,11 @@ class UserSeeder extends Seeder
     {
         $role = Role::create(['name' => 'Admin']);
         (User::create([
-            'name' => 'Ahmad Fikri Haikal',
-            'username' => 'fikalahmad',
-            'email' => 'fikal2ahmad@gmail.com',
+            'name' => 'Mawar Saputri',
+            'username' => 'mawarputri',
+            'email' => 'mawar.s@gmail.com',
             'email_verified_at' => now(),
-            'password' => Hash::make('fikal2'),
+            'password' => Hash::make('testing123'),
             'remember_token' => Str::random(10),
         ]))->assignRole($role);
         $user = User::factory()->create([
@@ -33,7 +33,6 @@ class UserSeeder extends Seeder
             'password' => Hash::make('testing123'),
             'remember_token' => Str::random(10),
         ]);
-        // $permission = Permission::create(['name' => 'edit articles']);
         $user->assignRole($role);
     }
 }

@@ -2,9 +2,29 @@
     "version": 2,
     "framework": null,
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.6.1" }
+        "api/index.php": {
+            "runtime": "vercel-php@0.6.1",
+            "maxDuration": 30
+        }
     },
     "routes": [
+        { "handle": "filesystem" },
+        {
+            "src": "/css/filament/forms/forms.css(\\?.*)?",
+            "dest": "/public/css/filament/forms/forms.css"
+        },
+        {
+            "src": "/css/filament/support/support.css(\\?.*)?",
+            "dest": "/public/css/filament/support/support.css"
+        },
+        {
+            "src": "/css/filament/filament/app.css(\\?.*)?",
+            "dest": "/public/css/filament/filament/app.css"
+        },
+        {
+            "src": "/favicon.ico(\\?.*)?",
+            "dest": "/public/favicon.ico"
+        },
         {
             "src": "/(.*)",
             "dest": "/api/index.php"

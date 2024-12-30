@@ -20,14 +20,7 @@ class RoleResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-shield-check';
 
-    // protected static ?string $navigationGroup = 'Access Control';
-
     protected static ?string $navigationGroup = 'Security Settings';
-
-    // public static function getNavigationParentItem(): ?string
-    // {
-    //     return __('filament/navigation.groups.settings.items.security-settings');
-    // }
 
     protected static ?int $navigationSort = 2;
 
@@ -77,13 +70,6 @@ class RoleResource extends Resource
                     Tables\Actions\DeleteBulkAction::make(),
                 ]),
             ]);
-    }
-
-    public static function getRelations(): array
-    {
-        return [
-            //
-        ];
     }
 
     public static function getPages(): array

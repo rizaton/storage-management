@@ -7,7 +7,7 @@ Route::get('/', function () {
 });
 Route::get('/login', function () {
     return redirect('/admin');
-});
+})->name('login');
 Route::get('/dashboard', function () {
     return redirect('/admin');
 });
