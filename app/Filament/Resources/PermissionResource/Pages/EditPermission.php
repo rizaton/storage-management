@@ -20,4 +20,8 @@ class EditPermission extends EditRecord
     {
         return $this->getResource()::getUrl('index');
     }
+    protected function getCreatedNotificationTitle(): ?string
+    {
+        return 'Permission Edited';
+    }
 }

@@ -20,4 +20,8 @@ class EditBrand extends EditRecord
     {
         return $this->getResource()::getUrl('index');
     }
+    protected function getCreatedNotificationTitle(): ?string
+    {
+        return 'Brand Edited';
+    }
 }

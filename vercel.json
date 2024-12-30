@@ -7,6 +7,7 @@
             "maxDuration": 30
         }
     },
+    "regions": ["sin1"],
     "routes": [
         { "handle": "filesystem" },
         {
@@ -20,10 +21,6 @@
         {
             "src": "/css/filament/filament/app.css(\\?.*)?",
             "dest": "/public/css/filament/filament/app.css"
-        },
-        {
-            "src": "/favicon.ico(\\?.*)?",
-            "dest": "/public/favicon.ico"
         },
         {
             "src": "/(.*)",

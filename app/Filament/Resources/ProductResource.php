@@ -48,6 +48,12 @@ class ProductResource extends Resource
                         ->minLength(1)
                         ->maxLength(255)
                         ->required(),
+                    Forms\Components\TextInput::make('slug')
+                        ->label('Product slug')
+                        ->minLength(2)
+                        ->maxLength(255)
+                        ->required()
+                        ->autocomplete(false),
                     Forms\Components\Select::make('brand_id')
                         ->label('Brand Name')
                         ->relationship('brand', 'name')
@@ -55,6 +61,11 @@ class ProductResource extends Resource
                         ->createOptionForm([
                             Forms\Components\TextInput::make('name')
                                 ->label('Brand Name')
+                                ->minLength(2)
+                                ->maxLength(255)
+                                ->required(),
+                            Forms\Components\TextInput::make('slug')
+                                ->label('Brand slug')
                                 ->minLength(2)
                                 ->maxLength(255)
                                 ->required()

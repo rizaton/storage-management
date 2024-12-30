@@ -38,6 +38,12 @@ class BrandResource extends Resource
                         ->maxLength(255)
                         ->required()
                         ->autocomplete(false),
+                    Forms\Components\TextInput::make('slug')
+                        ->label('Brand slug')
+                        ->minLength(2)
+                        ->maxLength(255)
+                        ->required()
+                        ->autocomplete(false),
                 ])
             ]);
     }

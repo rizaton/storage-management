@@ -20,4 +20,8 @@ class EditProduct extends EditRecord
     {
         return $this->getResource()::getUrl('index');
     }
+    protected function getCreatedNotificationTitle(): ?string
+    {
+        return 'Product Edited';
+    }
 }
