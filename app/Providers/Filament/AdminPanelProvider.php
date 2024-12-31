@@ -25,7 +25,6 @@ class AdminPanelProvider extends PanelProvider
 {
     public function panel(Panel $panel): Panel
     {
-        URL::forceScheme('https');
         return $panel
             ->default()
             ->id('admin')
