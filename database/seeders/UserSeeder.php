@@ -16,23 +16,21 @@ class UserSeeder extends Seeder
      */
     public function run(): void
     {
-        $role = Role::create(['name' => 'Admin']);
-        (User::create([
+        User::create([
             'name' => 'Mawar Saputri',
             'username' => 'mawarputri',
             'email' => 'mawar.s@gmail.com',
             'email_verified_at' => now(),
             'password' => Hash::make('testing123'),
             'remember_token' => Str::random(10),
-        ]))->assignRole($role);
-        $user = User::factory()->create([
+        ])->assignRole(Role::where('name', 'Product Manager')->first());
+        User::factory()->create([
             'name' => 'Tony Afriza',
             'username' => 'rizaton',
             'email' => 'rizaton@gmail.com',
             'email_verified_at' => now(),
             'password' => Hash::make('testing123'),
             'remember_token' => Str::random(10),
-        ]);
-        $user->assignRole($role);
+        ])->assignRole(Role::where('name', 'Admin')->first());
     }
 }
